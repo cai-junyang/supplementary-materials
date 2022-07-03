@@ -3,7 +3,7 @@ How many asymptomatic cases were unconfirmed in the US COVID-19 pandemic? The ev
 
 The file "raw data of seroprevalence from CDC.csv" describes the raw seroprevalence in the US from CDC.
 
-The file "covid-19-data-20200815-20201212-血清数据.csv" describes the daily seroprevalence complemented by spline interpolation. 
+The file "covid-19-data-20200815-20201212-serum data.csv" describes the daily seroprevalence complemented by spline interpolation. 
 
 The daily report data comes from the Wind Quant data interface (see code). 
 
